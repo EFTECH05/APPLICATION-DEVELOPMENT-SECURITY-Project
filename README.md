@@ -1,3 +1,7 @@
+
+<img width="1362" height="692" alt="image" src="https://github.com/user-attachments/assets/725b7756-8afe-488e-a4e7-c0829e2d508e" />
+
+
 # Banking Payment System (Task 2 Project)
 
 ## 📌 Overview
