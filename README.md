@@ -1,3 +1,5 @@
+I passed this module with distinction. Here are my results.(first semester )
+<img width="983" height="163" alt="image" src="https://github.com/user-attachments/assets/f5b9024b-dbbf-4f28-aac3-9ae4ff4e74db" />
 
 <img width="1362" height="692" alt="image" src="https://github.com/user-attachments/assets/725b7756-8afe-488e-a4e7-c0829e2d508e" />
 
